@@ -1,0 +1,58 @@
+body{
+    background-color: #442D4D;
+    margin: 30px 150px 30px 150px;
+}
+.logo img, .logo a{
+    display: inline-block;
+    height: 25;
+}
+.logo a{
+    width: 10%;
+    float: right;
+    text-decoration: none;
+    color: rgb(226, 226, 104);
+    
+}
+p{
+    color: white;
+    font-weight: normal;
+    font-size: 2em;
+}
+
+.main{
+    width: 10%
+    display: inline;
+}
+.english img{
+    display: inline;
+    height: 353;
+    width: 193;
+    box-sizing:border-box;
+}
+.english p{
+    font-size: 1em;
+}
+.english .dis{
+    margin: 20px;
+    padding: 10px;
+    float: left;
+    clear: right;
+}
+.english .dis .rate img{
+    width: 15;
+    height: 15;
+}
+.english .dis .year{
+    font-size: 1em;
+}
+
+.logo1 img{
+    width: 200;
+    height: auto;
+    float: right;
+    
+}
+.logo1{
+    height: 700;
+    width: 700;
+}
